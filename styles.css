@@ -1,12 +1,13 @@
-body{background-color: rgb(97, 83, 83)}
+body{background-color: rgb(97, 83, 83);
+border: 2px solid black}
 
-.Top{font-size: 50px; color: green; font-weight: bold; font-family: 'Times New Roman', serif}
+.Top{font-size: 50px; color: green; font-weight: bold; font-family: 'Times New Roman', serif; text-align: center}
 
 .all{font-size: 20px; font-weight: 20; font-family: Georgia, 'Times New Roman', Times, serif;}
 
-.First{color: red}
+.First{color: red; margin: 5px; margin-left: 40em}
 
-.Second{color: Blue}
+.Second{color: Blue; margin: 5px; margin-left: 40em}
 
-.Third{color: gold}
+.Third{color: gold; margin: 5px; margin-left: 40em}
 
